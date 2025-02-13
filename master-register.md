@@ -75,3 +75,55 @@
 | SUB-0228   | War                                                 | Exclusion for war-related risks                                          | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
 | SUB-0229   | Aviation                                            | Exclusion for aviation-related risks                                     | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
 | SUB-0230   | Dangerous Occupation                                | Exclusion for dangerous occupations                                      | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| uniqueID    | Term                                                        | Proxy Definition                                                              | Exam References                   |
+|-------------|-------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------|
+| DOM-0003    | COMPLETING THE APPLICATION, UNDERWRITING, AND DELIVERING THE POLICIES | Domain covering application completion, underwriting process, policy delivery, and contract law | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0300    | Completing the application                                  | Steps for completing the insurance application                                | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0301    | Required signatures                                         | Necessity for applicant and agent signatures                                  | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0302    | Changes in the application                                  | Handling modifications in the application                                     | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0303    | Consequences of incomplete applications                     | Effects and risks of submitting incomplete applications                       | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0304    | Warranties and representations                              | Statements and assurances made in the application                             | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0305    | Collecting the initial premium and issuing the receipt      | Process of receiving the first premium and providing a receipt                | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0306    | Replacement                                                 | Procedures for replacing an existing policy                                   | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0307    | Disclosures at point of sale (e.g., HIPAA, HIV consent)       | Required disclosures provided at the time of sale                             | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0308    | USA PATRIOT Act/anti-money laundering                       | Compliance with USA PATRIOT Act and anti-money laundering regulations         | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0309    | Gramm-Leach-Bliley Act (GLBA) Privacy                         | Privacy requirements under the Gramm-Leach-Bliley Act                         | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0301    | Underwriting                                                | Steps and considerations during underwriting                                  | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0310    | Insurable interest                                          | Requirement that the applicant has a valid insurable interest                 | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0311    | Medical information and consumer reports                    | Use of medical data and consumer reports in underwriting                      | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0312    | Fair Credit Reporting Act                                   | Regulations governing the use of consumer credit information                  | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0313    | Risk classification                                         | Determining risk categories for applicants                                    | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0314    | Stranger/Investor-owned life insurance (STOLI/IOLI)         | Underwriting considerations for non-traditional ownership of life insurance     | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0302    | Delivering the policy                                       | Process of policy delivery and client explanation                             | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0315    | When coverage begins                                        | Determination of the policy effective date                                    | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0316    | Explaining the policy and its provisions, riders, exclusions, and ratings to the client | Instructions for explaining policy details to the policyholder                | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0303    | Contract law                                                | Legal principles governing the insurance contract                             | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0317    | Elements of a contract                                      | Fundamental elements required for a valid contract                            | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0317a   | Consideration                                               | Exchange of value in a contract                                               | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0317b   | Offer and Acceptance                                        | Mutual agreement through proposal and acceptance                              | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0317c   | Competent parties                                           | Parties with legal capacity to contract                                       | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0317d   | Legal purpose                                               | Contract must be for a lawful purpose                                         | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0318    | Unique aspects of the insurance contract                    | Distinct characteristics of insurance contracts                               | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0318a   | Conditional                                                 | Coverage dependent on certain conditions                                    | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0318b   | Unilateral                                                  | Contract binding only on one party's promises                                 | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0318c   | Adhesion                                                    | Standardized contract with non-negotiable terms                               | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0318d   | Aleatory                                                    | Contract with outcomes that depend on uncertain events                        | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| DOM-0004    | RETIREMENT AND OTHER INSURANCE CONCEPTS                     | Domain covering retirement concepts and other insurance-related topics        | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0400    | Third-party ownership                                       | Ownership of a policy by a third party                                        | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0401    | Life Settlements                                            | The process of selling an existing life insurance policy                      | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0402    | Group life insurance                                        | Insurance policies covering groups of people                                  | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0402a   | Conversion privilege                                        | Option to convert a group policy to an individual policy                      | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0402b   | Contributory vs. noncontributory                              | Differences in premium payment responsibilities in group policies             | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0403    | Retirement plans                                            | Insurance aspects of retirement plans                                         | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0403a   | Qualified plans                                             | Retirement plans that meet IRS qualifications                                 | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0403b   | Nonqualified plans                                          | Retirement plans that do not meet IRS qualifications                          | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0404    | Life insurance needs analysis/suitability                   | Assessment of insurance needs for individuals and businesses                  | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0404a   | Personal insurance needs                                    | Insurance needs for individuals                                               | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0404b   | Business insurance needs                                    | Insurance needs for businesses                                                | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0404b1  | Key person                                                  | Insurance for essential employees                                             | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0404b2  | Buy sell                                                    | Insurance arrangements to fund buy-sell agreements                            | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0405    | Social Security benefits                                    | Overview of Social Security benefits related to insurance                     | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| TOP-0406    | Tax treatment of insurance premiums, proceeds, and dividends  | Tax implications for insurance products                                     | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0406a   | Individual life                                             | Tax treatment for individual life insurance                                   | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0406b   | Group life                                                  | Tax treatment for group life insurance                                        | LIFE AND HEALTH-GENERAL KNOWLEDGE |
+| SUB-0406c   | Modified Endowment Contracts (MECs)                         | Tax implications for MECs                                                     | LIFE AND HEALTH-GENERAL KNOWLEDGE |
