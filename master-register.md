@@ -30,3 +30,48 @@
 | TOP-0005      | Combination plans and variations            | Plans that combine different insurance products or offer variations.                           | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
 | SUB-0016      | Joint life (first to die)                   | Insurance plan covering two lives, paying out on the first death.                               | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
 | SUB-0017      | Survivorship life (second to die)           | Insurance plan covering two lives, paying out on the second death.                              | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| uniqueID   | Term                                                | Proxy Definition                                                        | Exam References                     |
+|------------|-----------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------|
+| DOM-0002   | POLICY RIDERS, PROVISIONS, OPTIONS, AND EXCLUSIONS  | Domain covering additional policy options including riders, provisions, and exclusions | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| TOP-0200   | Policy riders                                       | Subsection covering various policy riders                               | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0201   | Waiver of premium and waiver of monthly deduction   | Policy rider waiving premiums or monthly deductions                     | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0202   | Guaranteed insurability                             | Policy rider ensuring insurability regardless of health changes         | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0203   | Payor benefit                                       | Benefit provided to the payor in case of inability to pay                 | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0204   | Accidental death and/or accidental death and dismemberment | Policy rider covering accidental death and/or dismemberment           | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0205   | Term riders                                         | Riders providing term life insurance options                           | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0206   | Other insureds                                      | Riders covering additional insured individuals                         | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0207   | Long term care                                      | Policy rider providing long-term care benefits                          | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0208   | Return of premium                                   | Policy rider returning premiums under certain conditions                 | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0209   | Disability                                          | Policy rider providing disability coverage                             | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0210   | Cost of Living                                      | Policy rider adjusting benefits for inflation                           | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| TOP-0201   | Policy provisions and options                       | Section covering policy provisions, contractual options, and terms        | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0211   | Entire contract                                     | Provision stating that the policy is the complete contract                | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0212   | Insuring clause                                     | Clause outlining the insurer's promise to pay                             | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0213   | Free look                                           | Provision allowing a review period to cancel the policy                   | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0214   | Consideration                                       | Provision detailing what is exchanged for the policy                      | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0215   | Owner’s rights                                      | Provisions outlining the rights of the policy owner                      | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0216   | Beneficiary designations                            | Provision regarding the designation of beneficiaries                     | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0216a  | Primary and contingent                              | Differentiates primary and contingent beneficiaries                      | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0216b  | Revocable and irrevocable                           | Specifies whether beneficiary designations can be changed                | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0216c  | Common disaster                                     | Addresses beneficiary designations in common disaster situations         | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0216d  | Minor beneficiaries                                 | Provisions for designating beneficiaries who are minors                    | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0216e  | Designation by class                                | Allows designation of a class of beneficiaries                           | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0217   | Premium Payment                                     | Provision outlining premium payment options and methods                  | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0217a  | Modes                                               | Different modes available for premium payments                           | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0217b  | Grace period                                        | Time period after due date during which payment can be made              | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0217c  | Automatic premium loan                              | Provision allowing automatic loans for premium payments                  | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0217d  | Level or flexible                                   | Specifies if the premium is level or flexible                            | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0218   | Reinstatement                                       | Provision regarding reinstating a lapsed policy                          | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0219   | Policy loans, withdrawals, partial surrenders       | Provisions for accessing policy cash value via loans or withdrawals         | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0220   | Non-forfeiture options                              | Options available to the policyholder if the policy lapses                 | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0221   | Dividends and dividend options                      | Provisions related to policy dividends and their options                 | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0222   | Incontestability                                    | Clause limiting the timeframe for contesting the policy                    | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0223   | Assignments                                         | Provision detailing the transferability of the policy                    | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0224   | Suicide                                             | Provision outlining the treatment of suicide claims                      | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0225   | Misstatement of age and gender                      | Provision addressing errors in age or gender information                   | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0226   | Settlement options                                  | Provision detailing the options for settling a claim                     | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0227   | Accelerated death benefits                          | Provision allowing early payout of death benefits under certain conditions | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| TOP-0202   | Policy exclusions                                   | Section covering policy exclusions                                       | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0228   | War                                                 | Exclusion for war-related risks                                          | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0229   | Aviation                                            | Exclusion for aviation-related risks                                     | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
+| SUB-0230   | Dangerous Occupation                                | Exclusion for dangerous occupations                                      | LIFE AND HEALTH-GENERAL KNOWLEDGE   |
