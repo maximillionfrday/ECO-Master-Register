@@ -4,3 +4,5 @@
 | ...        | ...                      | ...                                           | ...                                 |
 
 | NEW-001 | New Term | New proxy definition | ECO-Example |
+
+| NEW-001 | New Term | New proxy definition | ECO-Example |
